@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-chougule" alt="abhishek-chougule" /></a> </p>
 
-- 🔭 I’m currently working on **3d Game**
+- 🔭 I’m currently working on **3d Games**
 
 - 🌱 I’m currently learning **Unity(C#)**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrabhi_1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mrabhi_1609" height="30" width="40" /></a>
+<a href="https://twitter.com/mrabhi_1609" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-twitter-logo-icon-png-image_3570310.jpg" alt="mrabhi_1609" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-chougule-bb74701a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chougule-bb74701a0" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_abhi_0x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="mr_abhi_0x0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/technotrendz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="technotrendz" height="30" width="40" /></a>
