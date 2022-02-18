@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mr_AbhiChougule" target="blank"><img align="center" src="https://mynottingham.nottingham.ac.uk/cs/psprd/cache/1/UN_IH_SOCIALTWITTER_UKE_1.PNG" alt="Mr_AbhiChougule" height="30" width="30" /></a>
+<a href="https://twitter.com/Mr_AbhiChougule?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Mr_AbhiChougule</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://linkedin.com/in/abhishekchougule" target="blank"><img align="center" src="https://mynottingham.nottingham.ac.uk/cs/psprd/cache/1/UN_IH_SOCIALLINKEDIN_UKE_1.png" alt="AbhishekChougule" height="30" width="30" /></a>
 <a href="https://instagram.com/mr_abhi_0x0" target="blank"><img align="center" src="https://mynottingham.nottingham.ac.uk/cs/psprd/cache/1/UN_IHUB_INSTGRM_UKE_1.PNG" alt="mr_abhi_0x0" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/technotrendz" target="blank"><img align="center" src="https://mynottingham.nottingham.ac.uk/cs/psprd/cache/1/UN_IH_YOUTUBE_UKE_1.png" alt="technotrendz" height="30" width="40" /></a>
