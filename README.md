@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chouguleabhis@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/Abhishek-Chougule](https://www.linkedin.com/in/Abhishek-Chougule)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abhishekchougule](https://www.linkedin.com/in/abhishekchougule)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
