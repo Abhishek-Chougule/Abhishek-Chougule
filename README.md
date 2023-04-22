@@ -1,4 +1,3 @@
-<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.svg" width="2000" height="100" alt="Hello I'm Abhishek">	
 	
 <div align="center">
 	
