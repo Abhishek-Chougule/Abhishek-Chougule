@@ -33,28 +33,13 @@ A Computer Science Enthusiast and Developer From India </b>
 <a href="mailto:developermrabhi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<!-- <a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> -->
 <a href="https://instagram.com/mrabhi.chougule">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<!-- <a href="https://kaggle.com/">
-  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a> -->
 <a href="https://www.hackerrank.com/abhishekchougule">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
-
-<!-- <p align="left"> 
-<a href="https://www.linkedin.com/in/hemantlohar/" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hemantlohar/" height="30" width="40" />
-	</a>
-<a href="https://www.hackerrank.com/The_Hemant" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/The_Hemant" height="30" width="40" />
-</a>
-</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -77,7 +62,7 @@ A Computer Science Enthusiast and Developer From India </b>
 <br>
 <p align="center">
 	
-[![Hemants's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hemant-Lohar&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Hemant-Lohar)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-Chougule)](https://github.com/Abhishek-Chougule/github-readme-activity-graph)
 
 	
 <a href="https://github.com/Hemant-Lohar">
@@ -109,20 +94,11 @@ A Computer Science Enthusiast and Developer From India </b>
 <div align="center">
 
 
-## 🟩>🐍
+
 ![snake gif](https://github.com/Hemant-Lohar/Hemant-Lohar/blob/output/github-contribution-grid-snake.gif)
 </div>	
-<!--
-**Hemant-Lohar/Hemant-Lohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Support
+
+<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
