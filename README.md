@@ -1,8 +1,8 @@
-<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.svg" width="2000" height="100" alt="Hi I'm am Hemant">	
+<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.svg" width="2000" height="100" alt="Hello I'm Abhishek">	
 	
 <div align="center">
 	
-## A Computer Science Enthusiast From India
+## A Computer Science Enthusiast and Developer From India
 
 </div>
 
