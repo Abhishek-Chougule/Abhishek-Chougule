@@ -81,22 +81,7 @@ A Computer Science Enthusiast and Developer From India </b>
 
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant-lohar&show_icons=true&locale=en&layout=compact" alt="hemant-lohar" /></p>
-<br>
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemant-lohar&show_icons=true&locale=en" alt="hemant-lohar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-lohar&" alt="hemant-lohar" /></p> -->
-
-<!-- Snake -->
-
-<div align="center">
-
-
-
-![snake gif](https://github.com/Hemant-Lohar/Hemant-Lohar/blob/output/github-contribution-grid-snake.gif)
-</div>	
 
 
 ## Support
