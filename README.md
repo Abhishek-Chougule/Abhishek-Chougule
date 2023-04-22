@@ -1,23 +1,22 @@
-	
-<div align="center">
-	
-## A Computer Science Enthusiast and Developer From India
-
-</div>
-
-<img align="right" height="200" width="340" alt="GIF" src="https://github.com/Abhishek-Chougule/Abhishek-Chougule/blob/main/Coding.gif">
+<img align="right" height="200" width="300" alt="GIF" src="https://github.com/Abhishek-Chougule/Abhishek-Chougule/blob/main/Coding.gif">
+<b> Welcome to my Tech World <br>
+A Computer Science Enthusiast and Developer From India </b>
 
 
-<br/>
+<br>
 
-- 📫 **How to reach me:** On any of my socials
-- 📄 **Know about my experiences at**: [Linkedin](https://www.linkedin.com/in/hemantlohar/)
-- ⚡ **Fun fact:** I am an Artist 👨‍🎨
-- ✍🏼 **You can Checkout my Drawings:** [here](https://www.instagram.com/hemant_arts/)
+
+
+<br>
+
+- 📄 **Know more about my experience :** [Linkedin](https://www.linkedin.com/in/abhishekchougule/)
+- ⚡  **Portfolio :** [Developer MrAbhi](https://abhishek-chougule.github.io/Developer_MrAbhi-Inc/)
+- 👨🏻‍💻 **You can Checkout my work :** [Google Play Developer](https://play.google.com/store/apps/dev?id=9053702988395238907)
 
 <p align="left"> &nbsp; &nbsp;
 <img src="https://komarev.com/ghpvc/?username=abhishek-chougule&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chougule" /> 
 </p>
+<br>
 
 [![An image of @abhishekchougule's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekchougule)](https://holopin.io/@abhishekchougule)
 
