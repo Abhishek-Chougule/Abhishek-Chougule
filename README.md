@@ -73,9 +73,13 @@ A Computer Science Enthusiast and Developer From India </b>
 <a href="https://github.com/Abhishek-Chougule">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Chougule&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-
+<a href="">
+<img width="40%" alt="GIF" src="Coding.gif"/></a>
+	
 <a href ="https://github.com/Abhishek-Chougule">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Chougule&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=d3d3d3&title_color=00E6FE"/></a>
+
+
 
 </p>
 
