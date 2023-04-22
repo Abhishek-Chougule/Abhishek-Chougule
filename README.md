@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhishek-chougule&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chougule" /> 
 </p>
 
-[![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
+[![@hemantlohar's Holopin board](holopin.io/abhishekchougule)](holopin.io/@abhishekchougule)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://leetcode.com/hemantlohar/">
