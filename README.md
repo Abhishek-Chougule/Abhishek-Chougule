@@ -5,7 +5,7 @@
 
 </div>
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" height="200" width="380" alt="GIF" src="https://github.com/Abhishek-Chougule/Abhishek-Chougule/blob/main/Coding.gif">
 
 
 <br/>
