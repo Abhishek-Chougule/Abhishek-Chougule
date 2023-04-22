@@ -1,15 +1,20 @@
 <div align="center">
-While ( ! ( Succeed = try()));
+WHILE(!(SUCCEED=TRY()));
 	<br><br>
 	<img align="center" height="200" width="300" alt="GIF" src="https://github.com/Abhishek-Chougule/Abhishek-Chougule/blob/main/Coding.gif">
-	</div>
+	<br><br>
+	<p align="center"> &nbsp; &nbsp;
+<img src="https://komarev.com/ghpvc/?username=abhishek-chougule&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chougule" /> 
+</p>
+
 <b> Welcome to my Tech World <br>
 A Computer Science Enthusiast and Developer From India </b>
-
+</div>
 
 <br>
 
 
+[![An image of @abhishekchougule's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekchougule)](https://holopin.io/@abhishekchougule)
 
 <br>
 
@@ -17,33 +22,27 @@ A Computer Science Enthusiast and Developer From India </b>
 - ⚡  **Portfolio :** [Developer MrAbhi](https://abhishek-chougule.github.io/Developer_MrAbhi-Inc/)
 - 👨🏻‍💻 **You can Checkout my work :** [Google Play Developer](https://play.google.com/store/apps/dev?id=9053702988395238907)
 
-<p align="left"> &nbsp; &nbsp;
-<img src="https://komarev.com/ghpvc/?username=abhishek-chougule&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chougule" /> 
-</p>
-<br>
-
-[![An image of @abhishekchougule's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekchougule)](https://holopin.io/@abhishekchougule)
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://leetcode.com/hemantlohar/">
+<a href="https://leetcode.com/abhishekchougule/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.linkedin.com/in/hemantlohar">
+<a href="https://www.linkedin.com/in/abhishekchougule/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-<a href="mailto:hemantlohar3421@gmail.com">
+<a href="mailto:developermrabhi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <!-- <a href="https://twitter.com/">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> -->
-<a href="https://instagram.com/the_hemant___">
+<a href="https://instagram.com/mr.abhichougule">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <!-- <a href="https://kaggle.com/">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a> -->
-<a href="https://www.hackerrank.com/The_Hemant">
+<a href="https://www.hackerrank.com/abhishekchougule">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
