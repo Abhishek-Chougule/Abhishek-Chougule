@@ -74,7 +74,7 @@ A Computer Science Enthusiast and Developer From India </b>
 
 
 <a href ="https://github.com/Abhishek-Chougule">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Chougule&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Chougule&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 
 
