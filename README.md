@@ -1,4 +1,8 @@
-<img align="right" height="200" width="300" alt="GIF" src="https://github.com/Abhishek-Chougule/Abhishek-Chougule/blob/main/Coding.gif">
+<div align="center">
+While ( ! ( Succeed = try()));
+	<br><br>
+	<img align="center" height="200" width="300" alt="GIF" src="https://github.com/Abhishek-Chougule/Abhishek-Chougule/blob/main/Coding.gif">
+	</div>
 <b> Welcome to my Tech World <br>
 A Computer Science Enthusiast and Developer From India </b>
 
