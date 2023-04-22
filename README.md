@@ -1,9 +1,9 @@
 <div align="center">
+<img align="center" height="250" width="100%" alt="GIF" src="Code Driveby.gif">
+<br><br>
 WHILE(!(SUCCEED=TRY()));
-	<br><br>
-	<img align="center" height="200" width="300" alt="GIF" src="https://github.com/Abhishek-Chougule/Abhishek-Chougule/blob/main/Coding.gif">
-	<br><br>
-	<p align="center"> &nbsp; &nbsp;
+<br><br>
+<p align="center"> &nbsp; &nbsp;
 <img src="https://komarev.com/ghpvc/?username=abhishek-chougule&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chougule" /> 
 </p>
 
