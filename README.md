@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" height="250" width="100%" alt="GIF" src="Code Driveby.gif">
 <br><br>
-WHILE(!(SUCCEED=TRY()));
+WHILE ( ! ( SUCCEED = TRY () ) );
 <br><br>
 <p align="center"> &nbsp; &nbsp;
 <img src="https://komarev.com/ghpvc/?username=abhishek-chougule&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chougule" /> 
