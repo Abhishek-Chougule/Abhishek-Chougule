@@ -23,7 +23,7 @@ while ( ! ( SUCCEED = TRY () ) );
 <p>
 <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300ff9c" width="16" />&nbsp; Currently working on <b>exciting tech projects</b><br/><br/>
 <img src="https://api.iconify.design/lucide/sprout.svg?color=%2300ff9c" width="16" />&nbsp; Always learning <b>new technologies and frameworks</b><br/><br/>
-<img src="https://api.iconify.design/lucide/globe.svg?color=%2300ff9c" width="16" />&nbsp; Explore my work on my <a href="https://abhishek-chougule.github.io/Developer_MrAbhi-Inc/"><b>Portfolio</b></a><br/><br/>
+<img src="https://api.iconify.design/lucide/globe.svg?color=%2300ff9c" width="16" />&nbsp; Explore my work on my <a href="https://abhishekchougule.in"><b>Portfolio</b></a><br/><br/>
 <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2300ff9c" width="16" />&nbsp; Published apps on the <a href="https://play.google.com/store/apps/dev?id=9053702988395238907"><b>Google Play Store</b></a><br/><br/>
 <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2300ff9c" width="16" />&nbsp; Experience and background on <a href="https://www.linkedin.com/in/abhishekchougule/"><b>LinkedIn</b></a><br/><br/>
 <img src="https://api.iconify.design/lucide/mail.svg?color=%2300ff9c" width="16" />&nbsp; Reach me at <b>developermrabhi@gmail.com</b><br/><br/>
@@ -38,7 +38,7 @@ while ( ! ( SUCCEED = TRY () ) );
 <a href="https://instagram.com/mrabhi.chougule"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://leetcode.com/abhishekchougule/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="https://www.hackerrank.com/abhishekchougule"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://abhishek-chougule.github.io/Developer_MrAbhi-Inc/"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=flat-square&logo=googlechrome&logoColor=0d1117" alt="Portfolio" /></a>
+<a href="https://abhishekchougule.in"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=flat-square&logo=googlechrome&logoColor=0d1117" alt="Portfolio" /></a>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%2300ff9c" width="24" /> Tech Stack and Tools
